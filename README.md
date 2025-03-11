@@ -23,11 +23,24 @@
 
 - Y por otro lado solo se puede ingresar un nombre a la vez.
 
-![Image](https://github.com/JLReyesBarrientos/challenge-amigo-secreto_JoseLuis/blob/main/Captura%20de%20Pantalla%202025-03-10%20a%20la(s)%2021.23.46.png)
+![Image](https://github.com/JLReyesBarrientos/challenge-amigo-secreto_JoseLuis/blob/main/Captura%20de%20Pantalla%202025-03-10%20a%20la(s)%2021.25.27.png)
 
 - Por ultimo, ya que escribas todos los nombres de tus amigos debes presionar el boton de sortear y descubriras quien es tu amigo secreto.
 
 ![Image](https://github.com/JLReyesBarrientos/challenge-amigo-secreto_JoseLuis/blob/main/Captura%20de%20Pantalla%202025-03-10%20a%20la(s)%2021.30.04.png)
+
+<h3>Tecnologías utilizadas</h3>
+
+<p>Para este proyecto se utilizo:</p>
+- HTML
+- CSS
+- Javascript
+
+<h3>Personas Desarrolladoras del Proyecto</h3>
+- Oracle Next Education + Alura LATAM
+- Jose Luis Reyes Barrientos
+
+
 
 
 
