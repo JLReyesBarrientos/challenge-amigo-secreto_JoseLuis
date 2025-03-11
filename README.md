@@ -11,7 +11,7 @@
 
 - Debemos ingresar el nombre de nuestros amigos. 
 
-![Image](https://github.com/JLReyesBarrientos/challenge-amigo-secreto_JoseLuis/blob/main/Captura%20de%20Pantalla%202025-03-10%20a%20la(s)%2021.30.04.png)
+![Image](https://github.com/JLReyesBarrientos/challenge-amigo-secreto_JoseLuis/blob/main/Captura%20de%20Pantalla%202025-03-10%20a%20la(s)%2021.23.18.png)
 
 - No se debe dejar vacia la caja, porque no funcionara, se necesita agregar algun nombre.
 
