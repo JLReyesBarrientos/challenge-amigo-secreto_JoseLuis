@@ -19,7 +19,7 @@
 
 - Tampoco se deben ingresar numeros, porque marcara un error.
 
-![Image](https://github.com/JLReyesBarrientos/challenge-amigo-secreto_JoseLuis/blob/main/Captura%20de%20Pantalla%202025-03-10%20a%20la(s)%2021.30.04.png)
+![Image](https://github.com/JLReyesBarrientos/challenge-amigo-secreto_JoseLuis/blob/main/Captura%20de%20Pantalla%202025-03-10%20a%20la(s)%2021.24.49.png)
 
 - Y por otro lado solo se puede ingresar un nombre a la vez.
 
